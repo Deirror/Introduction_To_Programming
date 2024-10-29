@@ -1,4 +1,4 @@
-# FMI IP 2023
+# Introduction To Programming
 
 Solutions and descriptions to my homeworks and exams in the course **Introduction To Programming**
 
