@@ -1,4 +1,4 @@
-# Introduction To Programming
+# Introduction To Programming (IP)
 
 Solutions and descriptions to my homeworks and exams in the course **Introduction To Programming**
 
